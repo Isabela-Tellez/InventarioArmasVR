@@ -3,7 +3,12 @@ guid: d1104288c447d1f48bcae71e275adcc1
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - _controller: {instanceID: 0}
+  - _controllerTeleport: {instanceID: 0}
+  - _controllerGameObject: {instanceID: 0}
+  - _controllerTeleportGameObject: {instanceID: 0}
+  - visibleObjectWithGripPressed: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
