@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11fdf651150f509409c3b74c0b133d6a, type: 3}
+  m_Name: Espada Madera
+  m_EditorClassIdentifier: 
+  description: "Una espada de entrenamiento para no da\xF1arse"
+  stackable: 0
+  icon: {fileID: 21300000, guid: cfeb57c51dbb8b2458ac3e528c178a84, type: 3}
+  prefab: {fileID: 919132149155446097, guid: 578524c8d44ac614e91af5d7536ddf13, type: 3}
